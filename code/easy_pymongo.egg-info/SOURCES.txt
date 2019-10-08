@@ -1,0 +1,7 @@
+README.md
+setup.py
+easy_pymongo/__init__.py
+easy_pymongo.egg-info/PKG-INFO
+easy_pymongo.egg-info/SOURCES.txt
+easy_pymongo.egg-info/dependency_links.txt
+easy_pymongo.egg-info/top_level.txt
